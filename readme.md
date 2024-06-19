@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm [Your Name]
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20views&color=0e75b6&style=flat" alt="avenster" /> </p>
 ## 🚀 About Me
 I'm a [Your Role] with a passion for [Your Interests]. I love working on innovative projects that make a difference.
 
