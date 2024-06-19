@@ -1,14 +1,13 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Himanshu Sharma
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20views&color=0e75b6&style=flat" alt="avenster" /> </p>
 ## 🚀 About Me
-I'm a [Your Role] with a passion for [Your Interests]. I love working on innovative projects that make a difference.
+I'm an undergrad with a passion for learning computer science. I love working on innovative projects that make a difference.
 
-- 🌱 I’m currently learning [Technology/Skill]
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topics]
 - 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 🔧 Technologies & Tools
@@ -47,11 +46,6 @@ I'm a [Your Role] with a passion for [Your Interests]. I love working on innovat
 - [Project 1](https://github.com/YourUsername/Project1): Description of Project 1
 - [Project 2](https://github.com/YourUsername/Project2): Description of Project 2
 - [Project 3](https://github.com/YourUsername/Project3): Description of Project 3
-
-## 📚 Blog Posts
-- [Title of Blog Post 1](https://yourblog.com/post1)
-- [Title of Blog Post 2](https://yourblog.com/post2)
-- [Title of Blog Post 3](https://yourblog.com/post3)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
