@@ -27,16 +27,12 @@
 <a href="https://www.hackerearth.com/3rqhytre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="3rqhytre" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-
-
-
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
