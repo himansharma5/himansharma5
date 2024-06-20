@@ -4,11 +4,9 @@
 I'm an undergrad with a passion for learning computer science. I love working on innovative projects that make a difference.
 
 - 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
-
+- 👯 I’m looking to collaborate on Projects
+- 📫 How to reach me: himansharma.cse@gmail.com
+  
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
