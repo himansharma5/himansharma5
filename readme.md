@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Himanshu Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20views&color=0e75b6&style=flat" alt="avenster" /> </p>
 ## 🚀 About Me
 I'm an undergrad with a passion for learning computer science. I love working on innovative projects that make a difference.
 
@@ -50,7 +49,7 @@ I'm an undergrad with a passion for learning computer science. I love working on
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/YourUsername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=portfolio)](https://yourportfolio.com)
+[![Portfolio]([https://img.shields.io/badge/-Portfolio-333?style=flat&logo=portfolio](https://himanshxrma.github.io/Portfolio/))]([https://yourportfolio.com](https://himanshxrma.github.io/Portfolio/))
 
 ## 📄 Resume
 [Check out my resume](https://yourresume.com)
