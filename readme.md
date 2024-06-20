@@ -47,8 +47,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/himansharma17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himansharma17" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himansharma17&show_icons=true&locale=en&layout=compact" alt="himansharma17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himansharma17&show_icons=true&locale=en" alt="himansharma17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himansharma17&" alt="himansharma17" /></p>
+# Github States
+<table>
+  <tr>
+    <td>
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshxrma&show_icons=true&locale=en" alt="himanshxrma" />
+    </td>
+    <td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshxrma&" alt="himanshxrma" />    </td>
+  </tr>
+</table>
