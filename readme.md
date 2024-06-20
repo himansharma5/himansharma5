@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemant</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansharma17&label=Profile%20views&color=0e75b6&style=flat" alt="himanshxrma" /> </p>
@@ -29,11 +29,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+<img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python">
+<img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" alt="Java">
+<img src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" alt="PHP">
+<img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus" alt="C++">
+
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
@@ -69,11 +70,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-333?style=flat&logo=electron)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/himansharma17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himansharma17" /></a></p><br><br>
-
-# Github States
+# Github Stats
 <table>
   <tr>
     <td>
