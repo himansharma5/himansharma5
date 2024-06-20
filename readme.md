@@ -29,11 +29,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ### Programming Languages
-<img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" alt="Java">
-<img src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" alt="PHP">
-<img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus" alt="C++">
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+
+
 
 
 ### Frontend Development
