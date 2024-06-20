@@ -17,28 +17,21 @@
 
 - 📫 How to reach me **himansharma.cse@gmail.com**
 
-### Connect with me:
-<p align="left">
-  <a href="https://dev.to/werty" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="werty" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rthrjmhgtrf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rthrjmhgtrf" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/erwtygf" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="erwtygf" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rethyttr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rethyttr" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/gfedawqrt" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gfedawqrt" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/3rqhytre" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="3rqhytre" height="30" width="40" />
-  </a>
-</p>
+### Connect with me
+![Dev.to](https://img.shields.io/badge/-Dev.to-333?style=flat&logo=dev.to&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)
+![CodeChef](https://img.shields.io/badge/-CodeChef-333?style=flat&logo=codechef&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-HackerRank-333?style=flat&logo=hackerrank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode&logoColor=white)
+![HackerEarth](https://img.shields.io/badge/-HackerEarth-333?style=flat&logo=hackerearth&logoColor=white)
 
+### Links
+- [Dev.to](https://dev.to/werty)
+- [LinkedIn](https://linkedin.com/in/rthrjmhgtrf)
+- [CodeChef](https://www.codechef.com/users/erwtygf)
+- [HackerRank](https://www.hackerrank.com/rethyttr)
+- [LeetCode](https://www.leetcode.com/gfedawqrt)
+- [HackerEarth](https://www.hackerearth.com/3rqhytre)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
