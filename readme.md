@@ -18,8 +18,8 @@
 - 📫 How to reach me **himansharma.cse@gmail.com**
 
 ### Connect with me
-![Dev.to](https://img.shields.io/badge/-Dev.to-333?style=flat&logo=dev.to&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-333?style=flat&logo=dev.to&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansharmaa)
 ![CodeChef](https://img.shields.io/badge/-CodeChef-333?style=flat&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-HackerRank-333?style=flat&logo=hackerrank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode&logoColor=white)
