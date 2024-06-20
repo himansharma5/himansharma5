@@ -35,9 +35,7 @@ I'm an undergrad with a passion for learning computer science. I love working on
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
 
 ## 🏆 Achievements
 - [Project 1](https://github.com/YourUsername/Project1): Description of Project 1
@@ -45,10 +43,5 @@ I'm an undergrad with a passion for learning computer science. I love working on
 - [Project 3](https://github.com/YourUsername/Project3): Description of Project 3
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/himansharmaa)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=portfolio)](https://himanshxrma.github.io/Portfolio/)
-
-## 📄 Resume
-[Check out my resume](https://himanshxrma.github.io/Portfolio/)
-
