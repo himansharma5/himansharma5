@@ -49,10 +49,10 @@ I'm an undergrad with a passion for learning computer science. I love working on
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/YourUsername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=portfolio)]([https://yourportfolio.com](https://himanshxrma.github.io/Portfolio/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=portfolio)]((https://himanshxrma.github.io/Portfolio/))
 
 ## 📄 Resume
-[Check out my resume](https://yourresume.com)
+[Check out my resume](https://himanshxrma.github.io/Portfolio/)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
