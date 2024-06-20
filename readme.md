@@ -35,7 +35,18 @@ I'm an undergrad with a passion for learning computer science. I love working on
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Your GitHub streak stats">
+    </td>
+  </tr>
+</table>
+
 
 ## 🏆 Achievements
 - [Project 1](https://github.com/YourUsername/Project1): Description of Project 1
