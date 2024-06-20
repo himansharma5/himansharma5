@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshxrma" alt="himanshxrma" /></a> </p>
-
 - 🔭 I’m currently working on **DataPuls**
 
 - 🌱 I’m currently learning **Mern Stack**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **himansharma.cse@gmail.com**
 
-# Connect with me
+## Connect with me
 ![Dev.to](https://img.shields.io/badge/-Dev.to-333?style=flat&logo=dev.to&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansharmaa)
 ![CodeChef](https://img.shields.io/badge/-CodeChef-333?style=flat&logo=codechef&logoColor=white)
@@ -23,7 +21,7 @@
 ![LeetCode](https://img.shields.io/badge/-LeetCode-333?style=flat&logo=leetcode&logoColor=white)
 ![HackerEarth](https://img.shields.io/badge/-HackerEarth-333?style=flat&logo=hackerearth&logoColor=white)
 
-# Languages and Tech
+## Languages and Tech
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -65,7 +63,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-333?style=flat&logo=electron)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 
-# Github Stats
+## Github Stats
 <table>
   <tr>
     <td>
