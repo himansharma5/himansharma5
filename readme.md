@@ -3,33 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansharma17&label=Profile%20views&color=0e75b6&style=flat" alt="himansharma17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himansharma17" alt="himansharma17" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshxrma" alt="himanshxrma" /></a> </p>
 
 - 🔭 I’m currently working on **wqer**
 
-- 🌱 I’m currently learning **erwgtdh**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **gfddasf**
-
-- 🤝 I’m looking for help with **erfrge**
+- 👯 I’m looking to collaborate on **intersting projects**
 
 - 👨‍💻 All of my projects are available at [ewrfg](ewrfg)
 
-- 📝 I regularly write articles on [wertgeh](wertgeh)
+- 💬 Ask me about **Data Science & Web Development**
 
-- 💬 Ask me about **dsaf**
-
-- 📫 How to reach me **dweghnfhjg**
+- 📫 How to reach me **himansharma.cse@gmail.com**
 
 - 📄 Know about my experiences [WERTEH](WERTEH)
 
-- ⚡ Fun fact **EWRWTEGT**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
